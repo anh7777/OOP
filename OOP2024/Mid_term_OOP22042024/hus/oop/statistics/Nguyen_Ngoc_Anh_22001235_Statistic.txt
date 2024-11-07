@@ -1,0 +1,40 @@
+C:\Users\SingPC\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=53617:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\University\Program\OOP2024\Mid_term_OOP22042024\hus\oop\statistics\out\production\statistics hus.oop.statistics.TestStatistics
+Before remove first element:
+[95.6, 81.71, 94.1, 1.43, 58.68, 37.04, 15.3, 97.67, 28.46, 61.77]
+10
+97.67
+1.43
+66.736
+1211.005264
+[1.43, 15.3, 28.46, 37.04, 58.68, 61.77, 81.71, 94.1, 95.6, 97.67]
+60.225
+After remove first element:
+[81.71, 94.1, 1.43, 58.68, 37.04, 15.3, 97.67, 28.46]
+8
+97.67
+1.43
+62.0125
+1287.7318750000002
+[1.43, 15.3, 28.46, 37.04, 58.68, 81.71, 94.1, 97.67]
+47.86
+
+Before remove first element:
+[7.74, 10.9, 36.97, 40.83, 41.62, 83.55, 55.24, 61.09, 96.33, 28.29, 87.08, 21.38, 89.53, 10.87, 41.22, 73.15, 8.55, 34.39]
+18
+96.33
+7.74
+46.470555555555556
+839.7992052469137
+[7.74, 8.55, 10.87, 10.9, 21.38, 28.29, 34.39, 36.97, 40.83, 41.22, 41.62, 55.24, 61.09, 73.15, 83.55, 87.08, 89.53, 96.33]
+41.025
+After remove first element:
+[10.9, 36.97, 40.83, 41.62, 83.55, 55.24, 61.09, 96.33, 28.29, 87.08, 21.38, 89.53, 10.87, 41.22, 73.15, 8.55]
+16
+96.33
+8.55
+49.84375
+835.1169078125001
+[8.55, 10.87, 10.9, 21.38, 28.29, 36.97, 40.83, 41.22, 41.62, 55.24, 61.09, 73.15, 83.55, 87.08, 89.53, 96.33]
+41.42
+
+Process finished with exit code 0

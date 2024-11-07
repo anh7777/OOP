@@ -1,0 +1,21 @@
+C:\Users\SingPC\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=53564:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\University\Program\OOP2024\Mid_term_OOP22042024\hus\oop\numbersystem\out\production\numbersystem hus.oop.numbersystem.NumberSystemTestDrive
+Original Number: 24003417387469B0B26B
+Radix Number: 12
+Binary: 1010000110100111110101010100010000010010010001101011001001111110110011
+Octal: 120647652420222153117663
+Hexadecimal: 2869F5510491AC9FB3
+
+Original Number: 123456
+Radix Number: 12
+Binary: 1001000010011000010
+Octal: 1102302
+Hexadecimal: 484C2
+
+Original Number: 123456
+Radix Number: 12
+Binary: 1001000010011000010
+Octal: 1102302
+Hexadecimal: 484C2
+
+
+Process finished with exit code 0

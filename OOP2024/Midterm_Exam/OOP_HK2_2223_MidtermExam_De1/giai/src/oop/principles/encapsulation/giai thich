@@ -1,0 +1,1 @@
+Giải thích: Đóng gói giúp ẩn chi tiết triển khai và bảo vệ dữ liệu bên trong lớp. Các phương thức get và set cho phép truy cập và thay đổi các thuộc tính một cách an toàn.

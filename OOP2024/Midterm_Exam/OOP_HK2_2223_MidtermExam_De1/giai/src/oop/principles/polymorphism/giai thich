@@ -1,0 +1,1 @@
+Giải thích: Đa hình cho phép một đối tượng có thể có nhiều hình thái khác nhau. Trong ví dụ này, phương thức draw được gọi trên các đối tượng Circle và Square sẽ thực thi phiên bản của lớp cụ thể.

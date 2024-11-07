@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week1/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/week1/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mid_term_OOP22042024/Mid_term_OOP22042024.iml" filepath="$PROJECT_DIR$/Mid_term_OOP22042024/Mid_term_OOP22042024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP2024.iml" filepath="$PROJECT_DIR$/OOP2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/giuaky/degk2022/degk2022.iml" filepath="$PROJECT_DIR$/giuaky/degk2022/degk2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1/ex1/ex1.iml" filepath="$PROJECT_DIR$/week1/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/exe2/exe2.iml" filepath="$PROJECT_DIR$/week2/exe2/exe2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ontap/flightmanager/flightmanager.iml" filepath="$PROJECT_DIR$/ontap/flightmanager/flightmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/giuaky/gkde1_2024/gkde1_2024.iml" filepath="$PROJECT_DIR$/giuaky/gkde1_2024/gkde1_2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/homework2/homework2.iml" filepath="$PROJECT_DIR$/week2/homework2/homework2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/lab2/lab2.iml" filepath="$PROJECT_DIR$/week2/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9/lab9/lab9.iml" filepath="$PROJECT_DIR$/week9/lab9/lab9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ontap/oop2223hk1_finalexam_de01/oop2223hk1_finalexam_de01.iml" filepath="$PROJECT_DIR$/ontap/oop2223hk1_finalexam_de01/oop2223hk1_finalexam_de01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9/shape/shape.iml" filepath="$PROJECT_DIR$/week9/shape/shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week13/week13.iml" filepath="$PROJECT_DIR$/week13/week13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week14/week14.iml" filepath="$PROJECT_DIR$/week14/week14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/week3.iml" filepath="$PROJECT_DIR$/week3/week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/week4.iml" filepath="$PROJECT_DIR$/week4/week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/week5.iml" filepath="$PROJECT_DIR$/week5/week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week6/week6.iml" filepath="$PROJECT_DIR$/week6/week6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7/week7.iml" filepath="$PROJECT_DIR$/week7/week7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week8/week8.iml" filepath="$PROJECT_DIR$/week8/week8.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Final_Exam.iml" filepath="$PROJECT_DIR$/Final_Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK1_2324_FinalExam_De1/Giải/Giải.iml" filepath="$PROJECT_DIR$/OOP_HK1_2324_FinalExam_De1/Giải/Giải.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De1/Giải/Giải1.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De1/Giải/Giải1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK1_2324_FinalExam_De1/OOPHK12324_FinalExam_De1/OOPHK12324_FinalExam_De1.iml" filepath="$PROJECT_DIR$/OOP_HK1_2324_FinalExam_De1/OOPHK12324_FinalExam_De1/OOPHK12324_FinalExam_De1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De1/OOP_HK2_2223_FinalExam_De1.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De1/OOP_HK2_2223_FinalExam_De1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De3/OOP_HK2_2223_FinalExam_De3.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De3/OOP_HK2_2223_FinalExam_De3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2324_FinalExam2324_De1/OOP_HK2_2324_FinalExam2324_De1.iml" filepath="$PROJECT_DIR$/OOP_HK2_2324_FinalExam2324_De1/OOP_HK2_2324_FinalExam2324_De1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De3/Giải/bookmanager/bookmanager.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De3/Giải/bookmanager/bookmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De3/Giải/matrix/matrix.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De3/Giải/matrix/matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De3/Giải/mybookmanager/mybookmanager.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De3/Giải/mybookmanager/mybookmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De2/Giải/mymath/mymath.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De2/Giải/mymath/mymath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De2/Giải/studentmanager/studentmanager.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De2/Giải/studentmanager/studentmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De2/Giải/studentmanager2/studentmanager2.iml" filepath="$PROJECT_DIR$/OOP_HK2_2223_FinalExam_De2/Giải/studentmanager2/studentmanager2.iml" />
+    </modules>
+  </component>
+</project>

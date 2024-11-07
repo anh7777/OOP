@@ -1,0 +1,17 @@
+C:\Users\SingPC\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=60215:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\University\Program\OOP2024\final\test\hus\oop\integration\out\production\integration hus.oop.integration.IntegrationCalculatorTestDrive
+testListPolynomial:
+polynomial: 10.0 + 4.0x + 8.0x^2 + 2.0x^3 + 1.0x^4 + 10.0x^5 + 4.0x^6 + 0.0x^7
+add: 17.0 + 6.0x + 11.0x^2 + 10.0x^3 + 5.0x^4 + 13.0x^5 + 14.0x^6 + 8.0x^7
+minus: 3.0 + 2.0x + 5.0x^2 + -6.0x^3 + -3.0x^4 + 7.0x^5 + -6.0x^6 + -8.0x^7
+times: 0.0 + 0.0x + 0.0x^2 + 0.0x^3 + 0.0x^4 + 0.0x^5 + 4.0x^6 + 0.0x^7
+polynomial with x = 2: 0.0
+polynomial with y = 2: 1911.0
+
+testIntegrationCalculator:
+array polynomial: 2.0 + 6.0x + 0.0x^2 + 0.0x^3 + 0.0x^4 + 0.0x^5 + 0.0x^6 + 0.0x^7
+list polynomial: 8.0 + 2.0x
+MidpointMethod: 0.0
+TrapezoidMethod: 0.0
+SimpsonMethod: 0.0
+
+Process finished with exit code 0

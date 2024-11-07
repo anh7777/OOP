@@ -1,0 +1,9 @@
+C:\Users\SingPC\.jdks\openjdk-21.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\lib\idea_rt.jar=61241:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\University\Program\OOP2024\final\test\hus\oop\mystudentmanager\out\production\mystudentmanager hus.oop.mystudentmanager.App
+Exception in thread "main" java.lang.ClassCastException: class java.util.ArrayList cannot be cast to class hus.oop.mystudentmanager.MyList (java.util.ArrayList is in module java.base of loader 'bootstrap'; hus.oop.mystudentmanager.MyList is in unnamed module of loader 'app')
+	at hus.oop.mystudentmanager.StudentManager.<init>(StudentManager.java:15)
+	at hus.oop.mystudentmanager.StudentManager.getInstance(StudentManager.java:21)
+	at hus.oop.mystudentmanager.App.readListData(App.java:46)
+	at hus.oop.mystudentmanager.App.init(App.java:99)
+	at hus.oop.mystudentmanager.App.main(App.java:81)
+
+Process finished with exit code 1
